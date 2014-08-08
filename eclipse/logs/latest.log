@@ -1,0 +1,15 @@
+[18:18:10] [main/INFO]: Setting user: ForgeDevName
+[18:18:11] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:18:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
+[18:18:19] [Sound Library Loader/INFO]: Sound engine started
+[18:18:20] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:18:20] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:18:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
+[18:18:20] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:18:20] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:18:21] [Sound Library Loader/INFO]: Sound engine started
+[18:18:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[18:18:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[18:18:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[18:18:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[18:18:28] [Client thread/INFO]: Stopping!
