@@ -1,15 +1,16 @@
-[18:18:10] [main/INFO]: Setting user: ForgeDevName
-[18:18:11] [Client thread/INFO]: LWJGL Version: 2.9.1
-[18:18:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
-[18:18:19] [Sound Library Loader/INFO]: Sound engine started
-[18:18:20] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:18:20] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:18:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
-[18:18:20] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:18:20] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:18:21] [Sound Library Loader/INFO]: Sound engine started
-[18:18:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[18:18:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[18:18:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[18:18:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[18:18:28] [Client thread/INFO]: Stopping!
+[03:20:47] [main/INFO]: Setting user: ForgeDevName
+[03:20:54] [Client thread/INFO]: LWJGL Version: 2.9.1
+[03:21:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
+[03:21:14] [Sound Library Loader/INFO]: Sound engine started
+[03:21:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[03:21:15] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[03:21:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
+[03:21:15] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[03:21:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[03:21:16] [Sound Library Loader/INFO]: Sound engine started
+[03:21:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:21:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[03:21:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[03:21:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[03:21:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[03:21:49] [Client thread/INFO]: Stopping!

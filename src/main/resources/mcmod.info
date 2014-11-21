@@ -1,0 +1,16 @@
+[{
+    "modid": "LetsModTutorial",
+    "name": "Lets Mod Tutorial",
+    "description": "Lets Mod Tutorial",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "Hirp" ],
+    "credits": "Cats",
+    "logoFile": "",
+    "screenshots": [ "" ],
+    "parent": "",
+    "requiredMods": [ "Forge" ],
+    "dependencies": [  ]
+  }]
