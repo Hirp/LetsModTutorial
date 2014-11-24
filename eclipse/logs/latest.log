@@ -1,16 +1,32 @@
-[03:20:47] [main/INFO]: Setting user: ForgeDevName
-[03:20:54] [Client thread/INFO]: LWJGL Version: 2.9.1
-[03:21:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
-[03:21:14] [Sound Library Loader/INFO]: Sound engine started
-[03:21:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[03:21:15] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[03:21:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
-[03:21:15] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[03:21:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[03:21:16] [Sound Library Loader/INFO]: Sound engine started
-[03:21:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[03:21:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[03:21:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[03:21:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[03:21:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[03:21:49] [Client thread/INFO]: Stopping!
+[04:15:18] [main/INFO]: Setting user: Player530
+[04:15:20] [Client thread/INFO]: LWJGL Version: 2.9.1
+[04:15:26] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
+[04:15:27] [Sound Library Loader/INFO]: Sound engine started
+[04:15:30] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[04:15:30] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[04:15:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
+[04:15:30] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[04:15:31] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[04:15:32] [Sound Library Loader/INFO]: Sound engine started
+[04:15:58] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[04:15:58] [Server thread/INFO]: Generating keypair
+[04:15:59] [Server thread/INFO]: Converting map!
+[04:15:59] [Server thread/INFO]: Scanning folders...
+[04:15:59] [Server thread/INFO]: Total conversion count is 0
+[04:16:00] [Server thread/INFO]: Preparing start region for level 0
+[04:16:01] [Server thread/INFO]: Changing view distance to 12, from 10
+[04:16:01] [Server thread/INFO]: Player530[local:E:51af906f] logged in with entity id 19 at (30.5, 4.0, -309.5)
+[04:16:01] [Server thread/INFO]: Player530 joined the game
+[04:16:04] [Server thread/INFO]: Player530 has just earned the achievement [Taking Inventory]
+[04:16:04] [Client thread/INFO]: [CHAT] Player530 has just earned the achievement [Taking Inventory]
+[04:17:27] [Server thread/INFO]: Saving and pausing game...
+[04:17:27] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[04:17:27] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[04:17:27] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[04:17:27] [Server thread/INFO]: Stopping server
+[04:17:27] [Server thread/INFO]: Saving players
+[04:17:27] [Server thread/INFO]: Saving worlds
+[04:17:27] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[04:17:27] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[04:17:27] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[04:17:34] [Client thread/INFO]: Stopping!
