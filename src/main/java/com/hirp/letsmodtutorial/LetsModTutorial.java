@@ -3,6 +3,7 @@ package com.hirp.letsmodtutorial;
 import com.hirp.letsmodtutorial.handler.ConfigurationHandler;
 import com.hirp.letsmodtutorial.init.ModBlocks;
 import com.hirp.letsmodtutorial.init.ModItems;
+import com.hirp.letsmodtutorial.init.ModRecipes;
 import com.hirp.letsmodtutorial.proxy.IProxy;
 import com.hirp.letsmodtutorial.reference.Reference;
 import com.hirp.letsmodtutorial.utility.LogHelper;
@@ -32,6 +33,7 @@ public class LetsModTutorial
 
         ModItems.init();
         ModBlocks.init();
+        ModRecipes.init();
     }
 
     @Mod.EventHandler

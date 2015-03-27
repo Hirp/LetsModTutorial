@@ -6,5 +6,5 @@ public class ItemTransparentTest extends ItemLMT
     {
         super();
         setUnlocalizedName("transparentTest");
-    }
 }
+        }
