@@ -1,36 +1,31 @@
-[08:13:21] [main/INFO]: Logging in with username & password
-[08:13:32] [main/INFO]: Setting user: Hirp
-[08:13:34] [Client thread/INFO]: LWJGL Version: 2.9.1
-[08:13:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
-[08:13:45] [Sound Library Loader/INFO]: Sound engine started
-[08:13:57] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[08:13:57] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[08:13:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
-[08:13:58] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[08:13:58] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[08:13:59] [Sound Library Loader/INFO]: Sound engine started
-[08:14:09] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[08:14:09] [Server thread/INFO]: Generating keypair
-[08:14:10] [Server thread/INFO]: Preparing start region for level 0
-[08:14:11] [Server thread/INFO]: Changing view distance to 12, from 10
-[08:14:11] [Server thread/INFO]: Hirp[local:E:a7d6c80a] logged in with entity id 183 at (41.181258535021605, 6.136676479326527, -300.040834960576)
-[08:14:11] [Server thread/INFO]: Hirp joined the game
-[08:14:48] [Client thread/INFO]: [CHAT] survival, creative, adventure
-[08:14:50] [Server thread/INFO]: [Hirp: Set own game mode to Survival Mode]
-[08:14:50] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[08:15:20] [Client thread/INFO]: [CHAT] survival, creative, adventure
-[08:15:24] [Server thread/INFO]: [Hirp: Set own game mode to Creative Mode]
-[08:15:24] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[08:15:37] [Server thread/INFO]: [Hirp: Set own game mode to Survival Mode]
-[08:15:37] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[08:16:12] [Server thread/INFO]: Saving and pausing game...
-[08:16:12] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[08:16:12] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[08:16:12] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[08:16:13] [Server thread/INFO]: Stopping server
-[08:16:13] [Server thread/INFO]: Saving players
-[08:16:13] [Server thread/INFO]: Saving worlds
-[08:16:13] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[08:16:13] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[08:16:13] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[08:16:14] [Client thread/INFO]: Stopping!
+[08:20:42] [main/INFO]: Logging in with username & password
+[08:20:48] [main/INFO]: Setting user: Hirp
+[08:20:50] [Client thread/INFO]: LWJGL Version: 2.9.1
+[08:20:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
+[08:20:57] [Sound Library Loader/INFO]: Sound engine started
+[08:21:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[08:21:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[08:21:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Tutorial
+[08:21:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[08:21:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[08:21:01] [Sound Library Loader/INFO]: Sound engine started
+[08:21:08] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[08:21:08] [Server thread/INFO]: Generating keypair
+[08:21:09] [Server thread/INFO]: Preparing start region for level 0
+[08:21:10] [Server thread/INFO]: Changing view distance to 12, from 10
+[08:21:10] [Server thread/INFO]: Hirp[local:E:8c6ba98e] logged in with entity id 180 at (41.27308182867116, 5.0, -292.6869891502071)
+[08:21:10] [Server thread/INFO]: Hirp joined the game
+[08:21:26] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
+[08:21:29] [Server thread/INFO]: [Hirp: Set own game mode to Creative Mode]
+[08:21:29] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:23:51] [Server thread/INFO]: Saving and pausing game...
+[08:23:51] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[08:23:51] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[08:23:51] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[08:23:51] [Server thread/INFO]: Stopping server
+[08:23:51] [Server thread/INFO]: Saving players
+[08:23:51] [Server thread/INFO]: Saving worlds
+[08:23:51] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[08:23:51] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[08:23:51] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[08:23:53] [Client thread/INFO]: Stopping!

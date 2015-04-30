@@ -10,9 +10,12 @@ public class ModRecipes
 {
     public static void init()
     {
-        ItemStack psiCrsytalStack = new ItemStack(ModBlocks.psiCrystalBlock);
+        ItemStack psiCrsytalBlockStack = new ItemStack(ModBlocks.psiCrystalBlock);
+        ItemStack psiCrsytalStack = new ItemStack(ModItems.psiCrystal);
         ItemStack stickStack = new ItemStack(Items.stick);
+        ItemStack netherQuartzStack = new ItemStack(Items.quartz);
 
-        GameRegistry.addRecipe(new ItemStack(ModItems.psiSword), " x ", " x ", " y ", 'x', psiCrsytalStack, 'y', stickStack);
+        GameRegistry.addRecipe(new ItemStack(ModItems.psiSword), " x ", " x ", " y ", 'x', psiCrsytalBlockStack, 'y', stickStack);
+        GameRegistry.addSmelting(ModBlocks.psiCrystalBlock, psiCrsytalStack, 5);
     }
 }
